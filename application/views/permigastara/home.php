@@ -7,7 +7,7 @@
             <div class="container">
                 <div class="row gy-4 justify-content-between">
                     <div class="col-lg-4 order-lg-last hero-img" data-aos="zoom-out" data-aos-delay="100">
-                        <img src="<?= base_url('assets/') ?>assets/img/permigastara_2.png" class="img-fluid animated" alt="">
+                        <img src="<?= base_url('assets/') ?>assets/img/permigastara_5.png" class="img-fluid animated" alt="">
                     </div>
 
                     <div class="col-lg-6  d-flex flex-column justify-content-center" data-aos="fade-in">
