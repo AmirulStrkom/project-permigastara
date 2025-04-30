@@ -363,27 +363,25 @@
                             <i class="bi bi-geo-alt flex-shrink-0"></i>
                             <div>
                                 <h3>Alamat</h3>
-                                <p>Siak Sri Indrapura
-                                    Benteng Hilir
-                                    Kec. Mempura
-                                    Kabupaten Siak
+                                <p>Kec. Sukajadi
+                                    Kota Pekanbaru
                                     Riau</p>
                             </div>
                         </div><!-- End Info Item -->
 
-                        <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
+                        <!-- <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
                             <i class="bi bi-telephone flex-shrink-0"></i>
                             <div>
                                 <h3>Telepon</h3>
                                 <p>+1 5589 55488 55</p>
                             </div>
-                        </div><!-- End Info Item -->
+                        </div>End Info Item -->
 
                         <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="400">
                             <i class="bi bi-envelope flex-shrink-0"></i>
                             <div>
                                 <h3>Email</h3>
-                                <p>info@example.com</p>
+                                <p>permigastarariau@gmail.com</p>
                             </div>
                         </div><!-- End Info Item -->
 
@@ -391,7 +389,7 @@
 
                     <div class="col-lg-8 d-flex align-items-start">
                         <iframe
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15924.019095157315!2d102.06945583779378!3d0.7836839029817233!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMMKwNDcnMDEuMyJOIDEwMsKwMDQnMDkuNiJF!5e0!3m2!1sen!2sid!4v1714383072355"
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15925.78123213221!2d101.438008!3d0.517113!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMC41MTcxMTMsIDEwMS40MzgwMDg!5e0!3m2!1sen!2sid!4v1714383072355"
                             class="map"
                             style="border:0; width:100%; height:450px; padding-bottom: 10px;"
                             allowfullscreen=""
