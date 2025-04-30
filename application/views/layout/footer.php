@@ -17,6 +17,7 @@
                     <a href="https://web.facebook.com/profile.php?id=61575838050593" target="_blank"><i class="bi bi-facebook"></i></a>
                     <a href="https://www.instagram.com/permigastarariau/" target="_blank"><i class="bi bi-instagram"></i></a>
                     <a href="https://www.tiktok.com/@permigastara.riau" target="_blank"><i class="bi bi-tiktok"></i></a>
+                    <a href="https://www.youtube.com/@PermigastaraRiau" target="_blank"><i class="bi bi-youtube"></i></a>
                 </div>
             </div>
 
